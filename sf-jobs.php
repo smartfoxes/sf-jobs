@@ -2,8 +2,8 @@
   /*
     Plugin Name: SF Jobs
     Plugin URI: https://github.com/smartfoxes/sf-siteplan.git
-    Description: Jobs listing custom post type and widget for the bootstrap based themes
-    Version: 0.9
+    Description: Jobs listing custom post type and shortcode to display jobs postings as a table
+    Version: 1.0
     Author: Smart Foxes Inc
     Author URI: http://www.smartfoxes.ca
     License: MIT
